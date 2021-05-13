@@ -11,7 +11,8 @@
 
 
 ## Diagram and Schematic
-
+![](images/diagram.jpg)
+![](images/schematic.jpg)
 ## Functionality 
 The OP-Identifier uses 2 sensors and 2 actuators to identify both the category/name and properties of an object.
 
