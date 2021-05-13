@@ -32,7 +32,7 @@ TCS3200 Color Sensor,” HowToMechatronics, 05-Feb-2021.
 [Online]. Available:
 https://howtomechatronics.com/tutorials/arduino/arduino-colorsensing-tutorial-tcs230-tcs3200-color-sensor/. [Accessed: 29-Apr2021].
 
--Fmalpartida, “fmalpartida/New-LiquidCrystal,” GitHub, 2020.
+- Fmalpartida, “fmalpartida/New-LiquidCrystal,” GitHub, 2020.
 [Online]. Available: https://github.com/fmalpartida/NewLiquidCrystal. [Accessed: 29-Apr-2021].
 
 - I. Luuk, “4-Wire Load Cell (1/5/10/20/200kg) with HX711 and
