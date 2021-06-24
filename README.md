@@ -1,13 +1,13 @@
 # Object and Property Identifier using Arduino Due
 ## Motivation
-    Wanted to create a system that would assist visually impaired individuals with:
-        - Identifying specific objects 
-        - Identifying specific properties of objects
-    The solution?   
-        - A Multi-Purpose System geared towards aiding individuals with visual impairments
-    System uses:
-        - 2 sensors to retrieve data 
-        - 2 actuators to output the properties and object names
+Wanted to create a system that would assist visually impaired individuals with:
+    - Identifying specific objects 
+    - Identifying specific properties of objects
+The solution?   
+    - A Multi-Purpose System geared towards aiding individuals with visual impairments
+System uses:
+    - 2 sensors to retrieve data 
+    - 2 actuators to output the properties and object names
 
 
 ## Diagram and Schematic
