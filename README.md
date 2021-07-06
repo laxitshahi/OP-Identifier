@@ -1,4 +1,4 @@
-# Object and Property Identifier using Arduino Due
+**# Object and Property Identifier using Arduino Due**
 ## Motivation
     Wanted to create a system that would assist visually impaired individuals with:
         - Identifying specific objects 
