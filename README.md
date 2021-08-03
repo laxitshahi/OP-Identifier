@@ -1,4 +1,4 @@
-#Object and Property Identifier using Arduino Due
+##Object and Property Identifier using Arduino Due
 ## Motivation
     Wanted to create a system that would assist visually impaired individuals with:
         - Identifying specific objects 
@@ -21,6 +21,7 @@ The Weight sensor, which is made of a load cell and hx711 amplifier, detects def
 
 The functionality of the speaker is to output morse code for the color/category/name of an object.
 The LCD is used to display the weight/color/category/name of an object.
+
 
 
 Link to full report: https://github.com/laxitshahi/OP-Identifier/blob/main/pdf/Laxit-Shahi-Final-Report.pdf
