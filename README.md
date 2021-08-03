@@ -22,8 +22,8 @@ The Weight sensor, which is made of a load cell and hx711 amplifier, detects def
 The functionality of the speaker is to output morse code for the color/category/name of an object.
 The LCD is used to display the weight/color/category/name of an object.
 
-<a href="/pdf/Laxit-Shahi-Final-Report.pdf" class="image fit">
 
+Link to full report: https://github.com/laxitshahi/OP-Identifier/blob/main/pdf/Laxit-Shahi-Final-Report.pdf
 
 ## References
 - A. Newton, “RGB Color Detector using TCS3200 Color Sensor 
