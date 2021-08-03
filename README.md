@@ -1,4 +1,4 @@
-# Object and Property Identifier using Arduino Due
+#Object and Property Identifier using Arduino Due
 ## Motivation
     Wanted to create a system that would assist visually impaired individuals with:
         - Identifying specific objects 
@@ -23,7 +23,7 @@ The functionality of the speaker is to output morse code for the color/category/
 The LCD is used to display the weight/color/category/name of an object.
 
 
-## Refrences
+## References
 - A. Newton, “RGB Color Detector using TCS3200 Color Sensor 
 Arduino,” How To Electronics, 27-Feb-2021. [Online]. Available:
 https://how2electronics.com/rgb-color-detector-tcs3200-color-sensorarduino/. [Accessed: 29-Apr-2021].
